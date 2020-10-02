@@ -1,5 +1,4 @@
 from typing import List, Tuple
-
 from utils.database_connection import DatabaseConnection
 
 Book = Tuple[int, str, str, int]
